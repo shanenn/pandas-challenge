@@ -8,6 +8,7 @@ Contained are two csv files:
 
 These files are used by the jupyter notebook script:
   - PyCitySchools_main.ipynb
+
 The script reads the listed csv files and analyzes them for various comparisons, located at the top of the script is an analysis regarding findings observed from the data analysis.
 Script has been run and tested with:
   - python 3.9.13
