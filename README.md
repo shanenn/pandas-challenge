@@ -5,6 +5,7 @@ This repository contains the assignemtn for the UCI data science bootcamp pandas
 Contained are two csv files:
   - schools_complete.csv - csv containing school information
   - students_complete.csv - csv containing student information
+
 These files are used by the jupyter notebook script:
   - PyCitySchools_main.ipynb
 The script reads the listed csv files and analyzes them for various comparisons, located at the top of the script is an analysis regarding findings observed from the data analysis.
